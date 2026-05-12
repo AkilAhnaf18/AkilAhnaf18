@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Akil Ahnaf 👋
 
-<!--
-**AkilAhnaf18/AkilAhnaf18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Neuroscience + Applied Statistics graduate from the University of Toronto  
 
-Here are some ideas to get you started:
+I’m passionate about working with data, technology, and building projects that solve real-world problems. I enjoy learning new tools, exploring machine learning and analytics, and continuously improving my technical skills through hands-on projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills
+
+- Python
+- SQL
+- R
+- PowerBI
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Seaborn
+- Streamlit
+- Excel
+- Machine Learning
+- Data Analysis
+- Statistical Analysis
+
+---
+
+## Contact
+
+🔗 LinkedIn: https://www.linkedin.com/in/akil-ahnaf/  
+📧 Email: akilahnaf03@gmail.com
