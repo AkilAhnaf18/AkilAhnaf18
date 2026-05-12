@@ -15,9 +15,9 @@ Python • SQL • R • PowerBI • Excel • Pandas • NumPy • Scikit-learn
 ## Contact
 
 📧 Email: akilahnaf03@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/akil-ahnaf/  
+🔗 LinkedIn: https://www.linkedin.com/in/akil-ahnaf/
 🌐 Portfolio: https://akilahnaf18.github.io/
 
 ---
 
-##📌 Check out my pinned repositories below for featured projects.  
+## 📌 Check out my pinned repositories below for featured projects.  
