@@ -8,20 +8,7 @@ I’m passionate about working with data, technology, and building projects that
 
 ## Skills
 
-- Python
-- SQL
-- R
-- PowerBI
-- Pandas
-- NumPy
-- Scikit-learn
-- Matplotlib
-- Seaborn
-- Streamlit
-- Excel
-- Machine Learning
-- Data Analysis
-- Statistical Analysis
+Python • SQL • R • PowerBI • Excel • Pandas • NumPy • Scikit-learn • Streamlit • Matplotlib • Seaborn • Machine Learning • Data Analysis • Statistical Analysis
 
 ---
 
