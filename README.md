@@ -1,6 +1,6 @@
 # Hi, I'm Akil Ahnaf 👋
 
-🎓 Neuroscience + Applied Statistics graduate from the University of Toronto  
+🎓 Neuroscience & Applied Statistics graduate from the University of Toronto  
 
 I’m passionate about working with data, technology, and building projects that solve real-world problems. I enjoy learning new tools, exploring machine learning and analytics, and continuously improving my technical skills through hands-on projects.
 
@@ -14,5 +14,10 @@ Python • SQL • R • PowerBI • Excel • Pandas • NumPy • Scikit-learn
 
 ## Contact
 
-🔗 LinkedIn: https://www.linkedin.com/in/akil-ahnaf/  
 📧 Email: akilahnaf03@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/akil-ahnaf/  
+🌐 Portfolio: https://akilahnaf18.github.io/
+
+---
+
+##📌 Check out my pinned repositories below for featured projects.  
